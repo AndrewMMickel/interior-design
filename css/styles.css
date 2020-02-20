@@ -1,4 +1,26 @@
-.column {
+.column-1 {
     width: 300px;
-    float: right;
+    float: left;
+    margin: 2px;
+    border: 5px solid rgb(4, 12, 128);
+    padding: 4px;
+    background-color: rgb(4, 181, 194);
+  }
+
+  .column-2 {
+    width: 300px;
+    float: left;
+    margin: 2px;
+    border: 5px solid rgb(184, 0, 0);
+    padding: 4px;
+    background-color: rgb(194, 118, 4);
+  }
+
+  .column-3 {
+    width: 300px;
+    float: left;
+    margin: 2px;
+    border: 5px solid rgb(1, 92, 1);
+    padding: 4px;
+    background-color: rgb(19, 241, 56);
   }
